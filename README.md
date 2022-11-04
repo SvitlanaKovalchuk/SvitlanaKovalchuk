@@ -22,13 +22,20 @@
  
 </div>
 
-
+### :woman_technologist: About Me :
+Hello, my name is Svetlana, and am a beginner developer from Ukraine <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
  ![https___s3 eu-central-1 amazonaws com_media my ua_feed_8_24239108cad77fa296049b11029f12a9](https://user-images.githubusercontent.com/114920747/194376875-16742e13-8135-4cc6-96e5-f44fd6ec46a9.jpg)
-- 👋 Hello, my name is Svetlana!
-- 👀 I’m interested in microsoft, Learning new. 
-- 🌱 I’m currently learning programming, web design
-- 📫 How to reach me ...soon in the news
+
+- :telescope: I am taking a useful course in Microsoft Reactor! 
+
+- :seedling: I’m currently learning programming, web design.
+
+- :zap: I’m interested in microsoft, Learning new.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0-%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D1%8C%D1%87%D1%83%D0%BA-971109256/))
+
+
 
 
 <!---
